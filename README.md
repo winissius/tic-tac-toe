@@ -17,4 +17,5 @@ Enjoy the game and have fun playing TicTacToe with your friends!
 
 This TicTacToe game was created by Winissius Machado.
 GitHub: [github.com/winissius](https://github.com/winissius)
+
 Thank you for playing and enjoying this project!
